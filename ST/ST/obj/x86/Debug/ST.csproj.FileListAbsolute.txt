@@ -1,0 +1,13 @@
+c:\users\tom\documents\visual studio 2010\Projects\ST\ST\bin\Debug\ST.exe
+c:\users\tom\documents\visual studio 2010\Projects\ST\ST\bin\Debug\ST.pdb
+c:\users\tom\documents\visual studio 2010\Projects\ST\ST\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\tom\documents\visual studio 2010\Projects\ST\ST\obj\x86\Debug\ST.Properties.Resources.resources
+c:\users\tom\documents\visual studio 2010\Projects\ST\ST\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\tom\documents\visual studio 2010\Projects\ST\ST\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\tom\documents\visual studio 2010\Projects\ST\ST\obj\x86\Debug\ST.exe
+c:\users\tom\documents\visual studio 2010\Projects\ST\ST\obj\x86\Debug\ST.pdb
+C:\Users\Tom\documents\visual studio 2010\Projects\ST\ST\obj\x86\Debug\ST.Form1.resources
+C:\Users\Tom\documents\visual studio 2010\Projects\ST\ST\bin\Debug\SpPerfChart.dll
+C:\Users\Tom\documents\visual studio 2010\Projects\ST\ST\bin\Debug\SpPerfChart.pdb
+C:\Users\Tom\Dropbox\nees\ST\ST\obj\x86\Debug\ST.exe
+C:\Users\Tom\Dropbox\nees\ST\ST\obj\x86\Debug\ST.pdb

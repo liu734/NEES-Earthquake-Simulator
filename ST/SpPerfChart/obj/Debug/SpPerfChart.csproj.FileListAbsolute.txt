@@ -1,0 +1,8 @@
+C:\Users\Tom\Documents\Epics\SimplePerfChart_src\SpPerfChart\bin\Debug\SpPerfChart.dll
+C:\Users\Tom\Documents\Epics\SimplePerfChart_src\SpPerfChart\bin\Debug\SpPerfChart.pdb
+C:\Users\Tom\Documents\Epics\SimplePerfChart_src\SpPerfChart\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tom\Documents\Epics\SimplePerfChart_src\SpPerfChart\obj\Debug\SpPerfChart.PerfChart.resources
+C:\Users\Tom\Documents\Epics\SimplePerfChart_src\SpPerfChart\obj\Debug\ResGen.read.1.tlog
+C:\Users\Tom\Documents\Epics\SimplePerfChart_src\SpPerfChart\obj\Debug\ResGen.write.1.tlog
+C:\Users\Tom\Documents\Epics\SimplePerfChart_src\SpPerfChart\obj\Debug\SpPerfChart.dll
+C:\Users\Tom\Documents\Epics\SimplePerfChart_src\SpPerfChart\obj\Debug\SpPerfChart.pdb
